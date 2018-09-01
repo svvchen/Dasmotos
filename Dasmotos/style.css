@@ -1,0 +1,35 @@
+
+head, body {
+  font-family: Helvetica;
+}
+
+.header {
+  background-image: url(pattern.jpeg);
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.green {
+  background-color: mediumspringgreen;
+}
+
+.red {
+  background-color: lightcoral;
+}
+
+.blue {
+  background-color: skyblue;
+}
+
+.highlight{
+  color: blue;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
